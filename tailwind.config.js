@@ -18,6 +18,9 @@ module.exports = {
                     ...defaultTheme.fontFamily.sans,
                 ],
             },
+            colors: {
+                bermuda: "#E45757",
+            },
         },
     },
 

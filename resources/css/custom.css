@@ -1,3 +1,10 @@
 .hero {
     clip-path: polygon(100% 0%, 100% 90%, 50% 100%, 0 90%, 0 0);
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/public/img/oh-all.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-item {
+    background: rgba(255, 255, 255, 0.3)
 }
